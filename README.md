@@ -97,4 +97,4 @@ The EC11 Encoder completes all operations. The input include single click, doubl
 ## Further plan  
 Since there is a sampling jumping issue in STC8A8K, and it is not so popular that it is hard to find. I decided to transfer this project to STM32. Meanwhile, I will try to find a simple way to measure negative voltage.
 ## Supprot
-* Thanks to Gekunflex, provide technical support and help.
+* Thanks to Tan(https://gekunflex.com/), provide technical support and help.
